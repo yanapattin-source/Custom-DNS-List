@@ -21,3 +21,20 @@
 @@||*.mmstat.com^
 @@||tmall.com^
 @@||*.tmall.com^
+# AliExpress / Alibaba / Alipay Allowlist
+aliexpress.com
+*.aliexpress.com
+alicdn.com
+*.alicdn.com
+alipay.com
+*.alipay.com
+alibaba.com
+*.alibaba.com
+aliimg.com
+*.aliimg.com
+alimama.com
+*.alimama.com
+aliobjects.com
+*.aliobjects.com
+aliexpressmedia.com
+*.aliexpressmedia.com
