@@ -39,3 +39,4 @@ aliobjects.com
 aliexpressmedia.com
 *.aliexpressmedia.com
 *.venom.how
+beta.venom.how
