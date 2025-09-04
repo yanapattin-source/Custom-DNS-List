@@ -38,3 +38,4 @@ aliobjects.com
 *.aliobjects.com
 aliexpressmedia.com
 *.aliexpressmedia.com
+*.venom.how
